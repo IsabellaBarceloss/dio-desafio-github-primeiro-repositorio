@@ -1,4 +1,4 @@
-# 1° Desafio de Projeto - Introdução ao Git/GitHub
+# 1° Desafio de Projeto - Introdução ao Git/GitHub 🟠
 
 
 
@@ -9,4 +9,4 @@
 
 Este desafio visa aplicar os conhecimento iniciais sobre Git/GitHub, apresentando o plano de estudos do bootcamp. Nele você encontrará um sumário com o link das minhas anotações feitas no Evernote, um software destinado a organização de informações  mediante arquivos de nota.
 
-Saiba mais sobre o Bootcamp da Inter [aqui](https://www.dio.me/bootcamp/orange-tech-backend?ref=CG&utm_source=linkedin&utm_medium=social&utm_campaign=cg-bootcamp-orange-tech-backend)!
+Saiba mais sobre o Bootcamp da Inter [aqui](https://www.dio.me/bootcamp/orange-tech-backend?ref=CG&utm_source=linkedin&utm_medium=social&utm_campaign=cg-bootcamp-orange-tech-backend)! 😉
