@@ -4,7 +4,7 @@
 
 #### A criação deste repositório faz parte do desafio de projeto da DIO do Bootcamp **Orange Tech + | BackEnd**. 
 
-![Bootcamp OrangeTech Inter](imagens\orangetech.png)
+![Bootcamp OrangeTech Inter](https://user-images.githubusercontent.com/112354693/213033967-cb66274c-62de-48cb-8675-458a9a155c86.jpg)
 
 
 
